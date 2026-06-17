@@ -1,6 +1,6 @@
 # EZFix-business-portfolio
 ## This repository showcases "EZFix" technical branch used to automate monthly sales reporting, client issues, stocks, revenue, and the synchronization between our clients and databases. 
----
+
 
 ## Our Impact
 Initially, our business relied on a n8n server to allow our clients to input their device model and hardware defects, with only a 50% success rate of transferring the data into a designated Google Calender. 
