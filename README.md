@@ -9,8 +9,8 @@ Initially, our business relied on a n8n server to allow our clients to input the
 
 ---
 
-## 🛠️ The Tech Stack
-* **Python:** Handles data extraction, heavy processing, and calculations using `pandas`.
+##  Artitechure 
+* **Python:** Handles automated data extractions and calculations through primarily utilizing `pandas` .
 * **Excel (`.xlsx`):** Serves as the user-facing delivery tool, featuring pivot tables, formulas, and visual charts.
 * **Libraries Used:** `pandas`, `openpyxl` [add any others like xlwings, openpyxl, matplotlib].
 
